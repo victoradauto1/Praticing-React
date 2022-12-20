@@ -1,0 +1,11 @@
+.contido{
+    font-weight: bold;
+    font-size: 18px;
+    color: blue;
+}
+
+.fora{
+    font-weight: regular;
+    font-size: 14px;
+    color: red;
+}
