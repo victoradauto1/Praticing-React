@@ -1,0 +1,60 @@
+{
+  "exercises": [
+    {
+      "id": 1,
+      "title": "cadeira extensora",
+      "group": "pernas",
+      "intensity": "moderado",
+      "rating": "bom",
+      "isSet": true
+    },
+    {
+      "id": 2,
+      "title": "supino reto",
+      "group": "peito",
+      "intensity": "intenso",
+      "rating": "ótimo",
+      "isSet": true
+    },
+    {
+      "id": 3,
+      "title": "puxada pelas costas",
+      "group": "costas",
+      "intensity": "intenso",
+      "rating": "bom",
+      "isSet": false
+    },
+    {
+      "id": 4,
+      "title": "rosca bíceps",
+      "group": "bíceps",
+      "intensity": "intenso",
+      "rating": "ótimo",
+      "isSet": true
+    },
+    {
+      "id": "5",
+      "title": "Flexora",
+      "group": "perna",
+      "intensity": "moderado",
+      "rating": "otimo",
+      "isSet": "false"
+    },
+    {
+      "id": "6",
+      "title": "Puxada Neutra pela Frente",
+      "group": "costas",
+      "intensity": "moderado",
+      "rating": "otimo",
+      "isSet": "false"
+    },
+    {
+      "id": "7",
+      "title": "Encolhimento de Ombro",
+      "group": "ombros",
+      "intensity": "moderado",
+      "rating": "bom",
+      "isSet": "false"
+    }
+  ]
+}

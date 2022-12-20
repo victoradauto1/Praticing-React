@@ -1,0 +1,31 @@
+{ "movies":[{
+    "id": 1,
+    "title": "Titanic",
+    "year": 1997,
+    "awards": 12,
+    "rating": "Ótimo",
+    "record": true
+   
+}, {
+    "id": 2,
+    "title": "Rocky - Um lutador",
+    "year": 1976,
+    "awards": 1,
+    "rating": "Bom",
+    "record": false
+  
+}, {
+    "id": 3,
+    "title": "Allien - O Oitavo passageiro",
+    "year": 1987,
+    "awards": 1,
+    "rating": "Ótimo",
+    "record": false
+}, {
+    "id": 4,
+    "title": "Forest Gump - O contador de histórias",
+    "year": 1994,
+    "awards": 5,
+    "rating": "Ótimo",
+    "record": true
+}] }
