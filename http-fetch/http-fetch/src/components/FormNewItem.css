@@ -1,0 +1,19 @@
+form{
+    display: flex;
+    align-item: center;
+    flex-direction: column;
+    jutify-content: center;
+}
+
+form input{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    margin-bottom: 15px;
+
+}
+
+h3{
+    color: white;
+    background-color: blue;
+}

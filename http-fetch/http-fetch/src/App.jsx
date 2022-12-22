@@ -2,6 +2,7 @@ import React from 'react'
 import './App.css'
 import { useState, useEffect} from "react";
 import WorkoutList from './components/WorkoutList';
+import FormNewItem from './components/FormNewItem';
 
 const url = "http://localhost:3000/exercises"
 
@@ -24,7 +25,6 @@ function App() {
   FetchData()
   },[]);
 
-  console.log(exercises);
 
   return (
     <div className="App">
@@ -39,6 +39,7 @@ function App() {
         isSet={set.isSet}
          />
       ))}
+      <FormNewItem />
 
     </div>
   )
