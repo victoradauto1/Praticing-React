@@ -55,6 +55,44 @@
       "intensity": "moderado",
       "rating": "bom",
       "isSet": "false"
+    },
+    {
+      "title": "Salto na Caixa",
+      "group": "perna",
+      "rating": "ótimo",
+      "id": "vKAsvQz"
+    },
+    {
+      "title": "Supino Declinado",
+      "group": "peito",
+      "intensity": "intenso",
+      "rating": "bom",
+      "isSet": "true",
+      "id": "j9pgrn5"
+    },
+    {
+      "id": "15",
+      "title": "Leg Horizontal",
+      "group": "perna",
+      "intensity": "intenso",
+      "rating": "ótimo",
+      "isSet": "true"
+    },
+    {
+      "title": "Voador Dorsal",
+      "group": "ombros",
+      "intensity": "intenso",
+      "rating": "ótimo",
+      "isSet": "false",
+      "id": "rhqpSaE"
+    },
+    {
+      "title": "Rosca Direta",
+      "group": "bíceps",
+      "intensity": "intenso",
+      "rating": "bom",
+      "isSet": "false",
+      "id": "L1GYUfd"
     }
   ]
 }

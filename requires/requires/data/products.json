@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "produto": "Chuveiro",
+      "preço": "70,00",
+      "id": 5
+    },
+    {
+      "produto": "Sofá",
+      "preço": "300,00",
+      "id": 6
+    },
+    {
+      "produto": "Televisão 50´",
+      "preço": "2.999,99",
+      "id": 10
+    },
+    {
+      "produto": "Mesa de Centro ",
+      "preço": "400,00",
+      "id": 13
+    },
+    {
+      "produto": "Luminária",
+      "preço": "200,00",
+      "id": 14
+    },
+    {
+      "produto": "Cama",
+      "preço": "1.999,99",
+      "id": 15
+    },
+    {
+      "produto": "Mesa",
+      "preço": "300,00",
+      "id": 16
+    },
+    {
+      "produto": "Jogo de Cama",
+      "preço": "170,00",
+      "id": 17
+    },
+    {
+      "produto": "Chuveiro",
+      "preço": "70,00",
+      "id": 18
+    },
+    {
+      "produto": "Chuveiro",
+      "preço": "70,00",
+      "id": 19
+    },
+    {
+      "produto": "Cama",
+      "preço": "1.999,99",
+      "id": 20
+    },
+    {
+      "produto": "Mesa",
+      "preço": "300,00",
+      "id": 21
+    }
+  ]
+}
